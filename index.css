@@ -45,6 +45,11 @@ img{
     width: 5.5em;
     height: 5.5em;
 }
+.meet{
+    width: 5.5em;
+    height: auto;
+    margin-top: 3em;
+}
 
 /* image page CSS */
 .img-group{
